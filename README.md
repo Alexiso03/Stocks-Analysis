@@ -1,6 +1,6 @@
 # Stocks-Analysis
 
-## This repository contains two analytics tasks one is done for Tesla & Gamestop with the help of Jupyter Labs and other one is stock analytics for indian companies such as Reliance industries, JSW, GAIL etc. which is done in Microsoft Excel.
+## This repository contains two analytics tasks one is done for Tesla & Gamestop with the help of Jupyter Labs and other one is stock analytics for Indian companies such as Reliance Industries, JSW, GAIL etc. which is done in Microsoft Excel.
 
 ### First Task: 
 <br>Usage of yfinance to Extract Stock Data of Tesla(TSLA) where TSLA is a ticker through which we can configure your data also extracting GameStop(GME) stock data.
