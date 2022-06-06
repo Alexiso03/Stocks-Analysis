@@ -17,7 +17,7 @@ Using BeautifulSoup or the read_html function extract the table with GameStop Qu
 
 <b>Plotting GameStop Stock Graph with revenue extension:
 ![Ans6](https://user-images.githubusercontent.com/86974424/172063943-7cf66568-e360-41d7-bee0-5a6d0f97ee9a.png)
-
+##
 ### Second Task:
 <br> In this task I screened the companies and visualise them according to sub-sectors using a pie chart or a bar charts, afterwards visualising the companies by segregating them according to Market Cap in three categories: Large Cap(>20,000 crore), Mid Cap (5,000 to 20,000 crore) & Small Cap(<5,000) & lastly picking 10 random companies from the entire group and Visualise these 10 companies on a line chart for all 3 cases of growth: Good (15% Growth) ; Bad (-5% Growth);  Best(25% Growth)
 
